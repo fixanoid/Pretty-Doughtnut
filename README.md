@@ -16,4 +16,4 @@ doughnutWidget.options = {
 
 Additional options are set on the data objects, such as coloring, linking, or click handling
 
-Examples are in tester.html
+Examples are in http://fixanoid.github.io/doughtnut-progress/tester.html
